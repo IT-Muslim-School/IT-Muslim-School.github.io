@@ -5,6 +5,10 @@ body , html{
 	padding:0;
 }
 
+h2 {
+	margin: 0 15px 0 15px;
+}
+
 #header{
 	background-color:#34495e;
 	height:10%;
