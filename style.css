@@ -146,12 +146,13 @@ img{
 	#links{
 		display:none;
 	}
-	#brand{
-		left:50%;
+	/* #brand{
+		width: 100%;
+		
 		top:5%;
 		transform: translate(-50%,-50%);
 		font-size:14px;
-	}
+	} */
 	#navbar-mobile{
 		display:inline-block;
 		width:100%;
