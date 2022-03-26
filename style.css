@@ -158,6 +158,8 @@ img{
 		background-color:#e67e22;
 	}
 	.container{
+		display: flex;
+		flex-wrap: wrap;
 		width:90%;
 	}
 	#t1{
